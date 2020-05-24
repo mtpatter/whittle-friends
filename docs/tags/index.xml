@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Whittle Friends</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>animals, birbs</title>
-      <link>/tags/animals-birbs/</link>
+      <title>animals</title>
+      <link>/tags/animals/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/animals-birbs/</guid>
+      <guid>/tags/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>birbs</title>
+      <link>/tags/birbs/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/birbs/</guid>
       <description></description>
     </item>
     

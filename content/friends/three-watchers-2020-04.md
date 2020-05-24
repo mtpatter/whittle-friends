@@ -1,21 +1,20 @@
-{
-    "title": "'Three Watchers'",
-    "date": "2020-04-23",
-    "tags": ["automata"],
-    "categories": ["automata"],
-    "images": ["img/three-watchers-owls/1.jpg",
-    "img/three-watchers-owls/2.jpg",
-    "img/three-watchers-owls/3.jpg"],
-    "thumbnailImage": "img/three-watchers-owls/1.jpg",
-    "actualPrice": " ",
-    "comparePrice": null,
-    "inStock": true,
-    "options": {},
-    "variants": []
-}
++++
+date = "2020-04-23"
+title = "'Three Watchers'"
+draft = false
+image = "img/three-watchers-owls/1.jpg"
+showonlyimage = false
+tags = ["automata"]
+categories = ["automata"]
++++
 
-"Three Watchers" automaton, steampunk owl version. A lever under the base allows owls'
-heads to synchronously rotate side to side.
+
+"Three Watchers" automaton, steampunk owl version.
+
+<!--more-->
+
+This is based on a tutorial in Robert Race's 'Making Moving Toys and Automata'.
+A lever under the base allows owls' heads to synchronously rotate side to side.
 
 Movement Video: [Heads turning](../../img/three-watchers-owls/three-watchers-owls.mp4 "Heads turning")
 
@@ -26,4 +25,10 @@ Approximate dimensions (inches): Single owl - 2" H x 1.25" W x 1.25" D, with bas
 
 Completion Date: April 23, 2020
 
-<!--Colour: Black & Grey-->
+
+
+![](../../img/three-watchers-owls/1.jpg)
+
+![](../../img/three-watchers-owls/2.jpg)
+
+![](../../img/three-watchers-owls/3.jpg)

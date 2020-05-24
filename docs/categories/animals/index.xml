@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>animals on </title>
+    <title>animals on Whittle Friends</title>
     <link>/categories/animals/</link>
-    <description>Recent content in animals on </description>
+    <description>Recent content in animals on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
@@ -12,27 +12,21 @@
     
     
     <item>
-      <title>Simple Bird 2</title>
+      <title>Simple Blue Birb</title>
       <link>/friends/simple-birb-2-2020-05/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/friends/simple-birb-2-2020-05/</guid>
-      <description>Simple birb, based on Sean Syman&amp;rsquo;s woodcarving tutorial. Painted blue and white with a red heart bottom.
-Material: Basswood with acrylic paint and varnish.
-Approximate dimensions (inches): 1.5&amp;rdquo; H x 1&amp;rdquo; W x 1&amp;rdquo; D
-Completion Date: May 22, 2020</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Simple Bird 1</title>
+      <title>Simple Birb</title>
       <link>/friends/simple-birb-1-2020-05/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/friends/simple-birb-1-2020-05/</guid>
-      <description>Simple birb, based on Sean Syman&amp;rsquo;s woodcarving tutorial.
-Material: Basswood with acrylic paint and varnish.
-Approximate dimensions (inches): 1.5&amp;rdquo; H x 1&amp;rdquo; W x 1&amp;rdquo; D
-Completion Date: May 17, 2020</description>
+      <description></description>
     </item>
     
   </channel>

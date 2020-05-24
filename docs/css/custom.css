@@ -1,0 +1,33 @@
+h1, .h1 {
+  /*font-family: "Monserrat", regular;  */
+  font-size: 6rem;
+}
+
+h2, .h2 {
+  font-family: 'Monserrat', regular;
+  /*font-size: 2rem; */
+}
+
+body {
+  /*font-family: 'Monserrat', sans-serif;
+  /*font-size: 1rem; */
+  background-color: rgb(227,202,171);
+}
+
+.back-color {
+  color: transparent;
+}
+
+
+/* A link that has not been visited */
+a:link {
+    color: purple;
+}
+/* A link that has been visited */
+a:visited {
+    color: purple;
+}
+/* A link that is hovered on */
+a:hover {
+    color: blue;
+}
