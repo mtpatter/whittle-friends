@@ -7,8 +7,6 @@
 {{ partial "head.html" . }}
 {{ partial "google-fonts" . }}
 
-</head>
-
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GsCode}}"></script>
       <script>
@@ -20,6 +18,8 @@
 
       );
       </script>
+
+</head>
 <body>
     {{ block "main" . }}
     {{ end }}
