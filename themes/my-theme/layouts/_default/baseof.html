@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+
+
+{{ partial "head.html" . }}
+{{ partial "google-fonts" . }}
+
+</head>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GsCode}}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', {{ .Site.Params.GsCode }});
+
+      );
+      </script>
+<body>
+    {{ block "main" . }}
+    {{ end }}
+    {{ partial "scripts.html" . }}
+</body>
+</html>

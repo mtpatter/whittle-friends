@@ -1,0 +1,18 @@
+baseURL = "http://whittlefriends.com/"
+languageCode = "en-us"
+#title = "Whittle Friends"
+theme = "my-theme"
+themesDir = "themes"
+[Params]
+gsCode = "UA-167493883-1"
+#description = "Everyone needs a whittle friend."
+pic = ["img/logos/whittle-friends-logo-tagline-big-4680x900.png"]
+
+#custom_css = ["static/css/mystyles.css"]
+
+google_fonts = [["Monserrat", "400"],
+		["Architects Daughter", "400"],
+		#["Mali", "400"],
+		["Questrial", "400"],
+		["Fanwood Text", "400"],
+		["Holtwood One SC", "400"]]
