@@ -1,8 +1,9 @@
-baseURL = "http://whittlefriends.com/"
+baseURL = "/"
 languageCode = "en-us"
 #title = "Whittle Friends"
 theme = "my-theme"
 themesDir = "themes"
+publishDir = "docs"
 [Params]
 gsCode = "UA-167493883-1"
 #description = "Everyone needs a whittle friend."
