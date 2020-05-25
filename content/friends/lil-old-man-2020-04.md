@@ -8,9 +8,9 @@ tags = ["people", "lil guys"]
 categories = ["lil guys"]
 +++
 
-<!--more-->
-
 Little old man, based on Keith Randich's tutorial in 'Carving the Little Guys'.
+
+<!--more-->
 
 Material: Basswood with acrylic paint and varnish.
 

@@ -8,9 +8,10 @@ tags = ["animals", "birbs"]
 categories = ["animals"]
 +++
 
-<!--more-->
 
 Simple birb, based on Sean Syman's woodcarving tutorial.
+
+<!--more-->
 
 Material: Basswood with acrylic paint and varnish.
 

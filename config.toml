@@ -48,7 +48,7 @@ googleAnalytics = "UA-167493883-1"
   home = true
 
   [[params.navlinks]]
-  name = "Designs"
+  name = "Styles"
   url = "categories/"
 
   [[params.navlinks]]

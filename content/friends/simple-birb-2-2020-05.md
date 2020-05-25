@@ -8,10 +8,11 @@ tags = ["animals", "birbs"]
 categories = ["animals"]
 +++
 
+Simple birb, based on Sean Syman's woodcarving tutorial.
+
 <!--more-->
 
-Simple birb, based on Sean Syman's woodcarving tutorial. Painted blue and white with
-a red heart bottom.
+Painted blue and white with a red heart bottom.
 
 Material: Basswood with acrylic paint and varnish.
 

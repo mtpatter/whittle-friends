@@ -9,7 +9,7 @@ categories = ["automata"]
 +++
 
 
-"Three Watchers" automaton, steampunk owl version.
+"Three Watchers" automaton, steampunk owl version, based on Robert Race's tutorial.
 
 <!--more-->
 
