@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>santa on Whittle Friends</title>
+    <link>/categories/santa/</link>
+    <description>Recent content in santa on Whittle Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/santa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Easy Santa ornament</title>
+      <link>/friends/first-santa-2019-10/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/first-santa-2019-10/</guid>
+      <description>&lt;p&gt;Santa from the Easy Santa Ornament tutorial by Dan Haack.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,8 +4,8 @@ title = "Easy Santa ornament"
 draft = false
 image = "img/easy-santa/1.jpg"
 showonlyimage = false
-tags = ["people", "lil guys"]
-categories = ["lil guys"]
+tags = ["people", "santa", "christmas"]
+categories = ["santa", "christmas"]
 +++
 
 Santa from the Easy Santa Ornament tutorial by Dan Haack.

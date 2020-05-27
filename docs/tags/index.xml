@@ -65,5 +65,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>christmas</title>
+      <link>/tags/christmas/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/christmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>santa</title>
+      <link>/tags/santa/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/santa/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
