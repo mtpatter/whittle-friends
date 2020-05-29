@@ -3,23 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/animals/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/animals/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bears/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/doug-linker-bear-2020-05/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +53,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/friends/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/friends/simple-birb-2-2020-05/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
