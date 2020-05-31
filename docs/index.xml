@@ -6,10 +6,19 @@
     <description>Recent content on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Doug Linker Gnome</title>
+      <link>/friends/doug-linker-gnome-2020-05/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/doug-linker-gnome-2020-05/</guid>
+      <description>&lt;p&gt;Simple gnome, based on Doug Linker&amp;rsquo;s &amp;ldquo;Carve a Gnome from a Block of Wood&amp;rdquo; tutorial.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Doug Linker Bear</title>

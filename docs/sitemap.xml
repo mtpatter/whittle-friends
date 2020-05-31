@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/doug-linker-gnome-2020-05/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gnomes/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/gnomes/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/animals/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -18,27 +53,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/friends/doug-linker-bear-2020-05/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/friends/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url>
   
