@@ -4,8 +4,8 @@ title = "Lil Old Lady"
 draft = false
 image = "img/lil-old-lady/1.jpg"
 showonlyimage = false
-tags = ["people", "lil guys"]
-categories = ["lil guys"]
+tags = ["people", "lil guys", "folks"]
+categories = ["folks"]
 +++
 
 <!--more-->

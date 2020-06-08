@@ -6,10 +6,28 @@
     <description>Recent content in Friends on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/friends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five Minute Hillbilly</title>
+      <link>/friends/hillbilly-2020-05/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/hillbilly-2020-05/</guid>
+      <description>&lt;p&gt;A 5-minute hillbilly.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Five Minute Wizard</title>
+      <link>/friends/simple-wizard-2020-05/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/simple-wizard-2020-05/</guid>
+      <description>&lt;p&gt;A 5-minute wizard, based on Tom Hindes Woodcarving Illustrated tutorial.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Doug Linker Gnome</title>

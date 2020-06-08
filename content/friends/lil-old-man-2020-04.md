@@ -4,8 +4,8 @@ title = "Lil Old Man"
 draft = false
 image = "img/lil-old-man/1.jpg"
 showonlyimage = false
-tags = ["people", "lil guys"]
-categories = ["lil guys"]
+tags = ["people", "lil guys", "folks"]
+categories = ["folks"]
 +++
 
 Little old man, based on Keith Randich's tutorial in 'Carving the Little Guys'.
