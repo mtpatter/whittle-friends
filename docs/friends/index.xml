@@ -6,10 +6,19 @@
     <description>Recent content in Friends on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/friends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wee Wizard</title>
+      <link>/friends/wee-wizard-2020-06/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/wee-wizard-2020-06/</guid>
+      <description>&lt;p&gt;A tiny 5-minute wizard.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Five Minute Hillbilly</title>

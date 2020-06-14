@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>wizards</title>
+      <link>/categories/wizards/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/wizards/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>folks</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/folks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wizards</title>
-      <link>/categories/wizards/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/wizards/</guid>
       <description></description>
     </item>
     
