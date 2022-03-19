@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <loc>/friends/ballerina-2022-03/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/food/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <loc>/tags/automata/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/automata/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chonkins/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/chonkins/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/friends/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/food/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,16 +69,6 @@
   
   <url>
     <loc>/categories/kawaii/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -165,26 +190,6 @@
   <url>
     <loc>/friends/baby-yoda-2020-05/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/automata/</loc>
-    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/automata/</loc>
-    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/chonkins/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/chonkins/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>

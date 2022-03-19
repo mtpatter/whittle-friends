@@ -11,12 +11,12 @@ h2, .h2 {
 body {
   /*font-family: 'Monserrat', sans-serif;
   /*font-size: 1rem; */
-  background-color: rgb(254, 246, 226);
+  background-color: #f7f5e5;/*rgb(227,202,171);*/
 }
 
 .site{
-  background-color: rgb(254, 246, 226);
-}
+  background-color: #f7f5e5;/*rgb(227,202,171);*/
+} 
 
 .back-color {
   color: transparent;

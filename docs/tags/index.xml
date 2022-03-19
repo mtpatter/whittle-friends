@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>automata</title>
+      <link>/tags/automata/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chonkins</title>
+      <link>/tags/chonkins/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chonkins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>food</title>
@@ -116,24 +134,6 @@
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/birbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>automata</title>
-      <link>/tags/automata/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/automata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chonkins</title>
-      <link>/tags/chonkins/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chonkins/</guid>
       <description></description>
     </item>
     
