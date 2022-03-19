@@ -14,7 +14,10 @@ html,
 body {
   overflow-x: hidden;
   /* Prevent scroll on narrow devices */
+  background-color: rgb(254, 246, 226);
+
 }
+
 header {
   z-index: 1000;
 }
@@ -1606,7 +1609,7 @@ body {
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
-  background-color: #f4f4f4;
+  background-color: #f7f5e5; /* background-color: #f4f4f4; */
 }
 a {
   color: #ef5285;

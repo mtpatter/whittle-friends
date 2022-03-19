@@ -1,3 +1,5 @@
+/* your styles go here */
+
 h1, .h1 {
   /*font-family: "Monserrat", regular;  */
   font-size: 6rem;
@@ -14,14 +16,21 @@ body {
   background-color: #f7f5e5;/*rgb(227,202,171);*/
 }
 
-.site{
+div {
+  /*font-family: 'Monserrat', sans-serif;
+  /*font-size: 1rem; */
   background-color: #f7f5e5;/*rgb(227,202,171);*/
-} 
+}
+
 
 .back-color {
   color: transparent;
 }
-
+.site {
+  /*font-family: 'Monserrat', sans-serif;
+  /*font-size: 1rem; */
+  background-color: #f7f5e5;/*rgb(227,202,171);*/
+}
 
 /* A link that has not been visited */
 a:link {

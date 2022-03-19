@@ -9,12 +9,12 @@ disqusShortname = ""
 googleAnalytics = "UA-167493883-1"
 
 [params]
-  pic = ["img/logos/whittle-friends-logo-tagline-big-4680x900.png"]
+  pic = ["img/logos/whittle-friends-logo-4680x900.png"]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
   description = "A woodcarving portfolio"
-  copyright = "&copy;2020 Whittle Friends"
+  copyright = "&copy;2022 Whittle Friends"
   sidebarAbout = [
     "Woodcarvings by Maria"
   ]
