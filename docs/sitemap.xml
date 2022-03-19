@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gnomes/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/gnomes/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/friends/doug-linker-gnomerechaun-2022-03/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/friends/ballerina-2022-03/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url>
@@ -18,32 +53,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/chonkins/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/chonkins/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/friends/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,16 +89,6 @@
   
   <url>
     <loc>/friends/nosey-gnome-2020-06/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gnomes/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/gnomes/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   

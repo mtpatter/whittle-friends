@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gnomes</title>
+      <link>/tags/gnomes/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gnomes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>automata</title>
@@ -53,15 +62,6 @@
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/kawaii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gnomes</title>
-      <link>/tags/gnomes/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gnomes/</guid>
       <description></description>
     </item>
     
