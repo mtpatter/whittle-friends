@@ -4,8 +4,8 @@ title = "'The Child'"
 draft = false
 image = "img/baby-yoda/1.jpg"
 showonlyimage = false
-tags = ["automata"]
-categories = ["automata"]
+tags = ["automata", "star wars"]
+categories = ["automata", "star wars"]
 +++
 
 

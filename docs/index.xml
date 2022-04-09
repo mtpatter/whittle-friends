@@ -6,10 +6,19 @@
     <description>Recent content on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Porg</title>
+      <link>/friends/porg-2022-03/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/porg-2022-03/</guid>
+      <description>&lt;p&gt;Porg! From Star Wars.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Leprechaun gnome</title>

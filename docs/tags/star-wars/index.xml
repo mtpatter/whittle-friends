@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>star wars on Whittle Friends</title>
+    <link>/tags/star-wars/</link>
+    <description>Recent content in star wars on Whittle Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/star-wars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Porg</title>
+      <link>/friends/porg-2022-03/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/porg-2022-03/</guid>
+      <description>&lt;p&gt;Porg! From Star Wars.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>&#39;The Child&#39;</title>
+      <link>/friends/baby-yoda-2020-05/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/baby-yoda-2020-05/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The Child&amp;rdquo; automaton version 1, drinking soup. A lever under the base allows Baby Yoda&amp;rsquo;s
+head to rotate side to side.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
