@@ -4,8 +4,8 @@ title = "Leprechaun gnome"
 draft = false
 image = "img/doug-linker-gnomerechaun/1.jpg"
 showonlyimage = false
-tags = ["gnomes"]
-categories = ["gnomes"]
+tags = ["gnomes", "doug linker"]
+categories = ["gnomes", "doug linker"]
 +++
 
 Leprechaun gnome, based on Doug Linker's tutorial.

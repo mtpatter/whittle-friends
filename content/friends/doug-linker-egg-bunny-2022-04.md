@@ -4,8 +4,8 @@ title = "Egg bunny"
 draft = false
 image = "img/doug-linker-egg-bunny/1.jpg"
 showonlyimage = false
-tags = ["animals"]
-categories = ["animals"]
+tags = ["animals", "doug linker"]
+categories = ["animals", "doug linker"]
 +++
 
 Easter egg bunny, based on Doug Linker's tutorial.

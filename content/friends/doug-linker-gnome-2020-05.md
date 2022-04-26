@@ -4,8 +4,8 @@ title = "Doug Linker Gnome"
 draft = false
 image = "img/doug-linker-gnome/1.jpg"
 showonlyimage = false
-tags = ["gnomes"]
-categories = ["gnomes"]
+tags = ["gnomes", "doug linker"]
+categories = ["gnomes", "doug linker"]
 +++
 
 Simple gnome, based on Doug Linker's "Carve a Gnome from a Block of Wood" tutorial.

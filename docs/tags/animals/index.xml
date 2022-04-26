@@ -6,10 +6,19 @@
     <description>Recent content in animals on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/animals/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pocket penguin</title>
+      <link>/friends/pocket-penguin-2022-04/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/pocket-penguin-2022-04/</guid>
+      <description>&lt;p&gt;Small pocket penguin, based on Doug Linker&amp;rsquo;s tutorial.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hatching chick</title>

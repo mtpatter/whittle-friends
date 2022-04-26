@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>animals</title>
       <link>/tags/animals/</link>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>christmas</title>
+      <link>/tags/christmas/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/christmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doug linker</title>
+      <link>/tags/doug-linker/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/doug-linker/</guid>
       <description></description>
     </item>
     
@@ -161,15 +179,6 @@
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>christmas</title>
-      <link>/tags/christmas/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/christmas/</guid>
       <description></description>
     </item>
     

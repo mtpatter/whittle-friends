@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>doug linker on Whittle Friends</title>
+    <link>/categories/doug-linker/</link>
+    <description>Recent content in doug linker on Whittle Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/doug-linker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pocket penguin</title>
+      <link>/friends/pocket-penguin-2022-04/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/pocket-penguin-2022-04/</guid>
+      <description>&lt;p&gt;Small pocket penguin, based on Doug Linker&amp;rsquo;s tutorial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Egg bunny</title>
+      <link>/friends/doug-linker-egg-bunny-2022-04/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/doug-linker-egg-bunny-2022-04/</guid>
+      <description>&lt;p&gt;Easter egg bunny, based on Doug Linker&amp;rsquo;s tutorial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leprechaun gnome</title>
+      <link>/friends/doug-linker-gnomerechaun-2022-03/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/doug-linker-gnomerechaun-2022-03/</guid>
+      <description>&lt;p&gt;Leprechaun gnome, based on Doug Linker&amp;rsquo;s tutorial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Doug Linker Gnome</title>
+      <link>/friends/doug-linker-gnome-2020-05/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/doug-linker-gnome-2020-05/</guid>
+      <description>&lt;p&gt;Simple gnome, based on Doug Linker&amp;rsquo;s &amp;ldquo;Carve a Gnome from a Block of Wood&amp;rdquo; tutorial.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

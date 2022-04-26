@@ -4,7 +4,7 @@ title = "Doug Linker Bear"
 draft = false
 image = "img/doug-linker-bear/1.jpg"
 showonlyimage = false
-tags = ["animals", "bears"]
+tags = ["animals", "bears", "doug linker"]
 categories = ["animals"]
 +++
 
