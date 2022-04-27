@@ -2,7 +2,7 @@
 date = "2020-05-17"
 title = "Simple Birb"
 draft = false
-image = "img/simple-birb-1/1.jpg"
+image = "img/simple-birb-1/5.jpg"
 showonlyimage = true
 tags = ["animals", "birbs"]
 categories = ["animals"]
@@ -18,6 +18,8 @@ Material: Basswood with acrylic paint and varnish.
 Approximate dimensions (inches): 1.5" H x 1" W x 1" D
 
 Completion Date: May 17, 2020
+
+![](../../img/simple-birb-1/5.jpg)
 
 ![](../../img/simple-birb-1/1.jpg)
 
