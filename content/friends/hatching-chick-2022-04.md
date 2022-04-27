@@ -3,7 +3,7 @@ date = "2022-04-18"
 title = "Hatching chick"
 draft = false
 image = "img/hatching-chick/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["animals"]
 categories = ["animals"]
 +++

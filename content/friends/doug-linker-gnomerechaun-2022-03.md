@@ -3,7 +3,7 @@ date = "2022-03-18"
 title = "Leprechaun gnome"
 draft = false
 image = "img/doug-linker-gnomerechaun/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["gnomes", "doug linker"]
 categories = ["gnomes", "doug linker"]
 +++

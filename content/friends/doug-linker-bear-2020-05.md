@@ -3,7 +3,7 @@ date = "2020-05-29"
 title = "Doug Linker Bear"
 draft = false
 image = "img/doug-linker-bear/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["animals", "bears", "doug linker"]
 categories = ["animals"]
 +++

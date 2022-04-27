@@ -3,7 +3,7 @@ date = "2019-10-17"
 title = "Easy Santa ornament"
 draft = false
 image = "img/easy-santa/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["people", "santa", "christmas"]
 categories = ["santa", "christmas"]
 +++

@@ -3,7 +3,7 @@ date = "2020-06-07"
 title = "Five Minute Hillbilly"
 draft = false
 image = "img/hillbilly/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["folks", "hillbillies", "five minutes"]
 categories = ["folks"]
 +++

@@ -3,7 +3,7 @@ date = "2020-05-31"
 title = "Doug Linker Gnome"
 draft = false
 image = "img/doug-linker-gnome/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["gnomes", "doug linker"]
 categories = ["gnomes", "doug linker"]
 +++

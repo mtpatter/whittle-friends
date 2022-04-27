@@ -3,7 +3,7 @@ date = "2020-04-04"
 title = "Lil Old Lady"
 draft = false
 image = "img/lil-old-lady/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["people", "lil guys", "folks"]
 categories = ["folks"]
 +++

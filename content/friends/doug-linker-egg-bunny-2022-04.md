@@ -3,7 +3,7 @@ date = "2022-04-12"
 title = "Egg bunny"
 draft = false
 image = "img/doug-linker-egg-bunny/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["animals", "doug linker"]
 categories = ["animals", "doug linker"]
 +++

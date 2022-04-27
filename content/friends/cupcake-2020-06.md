@@ -3,7 +3,7 @@ date = "2020-06-02"
 title = "Kawaii Cupcake"
 draft = false
 image = "img/kawaii-cupcake/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["food", "kawaii"]
 categories = ["kawaii"]
 +++
@@ -25,5 +25,3 @@ Completion Date: June 2, 2020
 ![](../../img/kawaii-cupcake/2.jpg)
 
 ![](../../img/kawaii-cupcake/3.jpg)
-
-

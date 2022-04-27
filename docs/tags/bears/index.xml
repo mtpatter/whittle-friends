@@ -6,10 +6,19 @@
     <description>Recent content in bears on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/bears/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini Doug Linker bear</title>
+      <link>/friends/doug-linker-small-bear-2022-04/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/doug-linker-small-bear-2022-04/</guid>
+      <description>&lt;p&gt;A smaller version of a Doug Linker bear.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Doug Linker Bear</title>

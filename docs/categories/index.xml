@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>animals</title>
       <link>/categories/animals/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doug linker</title>
+      <link>/categories/doug-linker/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/doug-linker/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/christmas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>doug linker</title>
-      <link>/categories/doug-linker/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/doug-linker/</guid>
       <description></description>
     </item>
     

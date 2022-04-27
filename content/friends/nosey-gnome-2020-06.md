@@ -3,7 +3,7 @@ date = "2020-06-21"
 title = "Big Nose Gnome"
 draft = false
 image = "img/nosey-gnome/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["gnomes", "food", "mushrooms"]
 categories = ["gnomes"]
 +++
@@ -14,7 +14,7 @@ Big nose gnome with mushrooms.
 
 No specific pattern for the gnome, but based on a number of Google images and
 carved face on (as opposed to on a corner).
-Hat droops over his nose and hands in his pockets. 
+Hat droops over his nose and hands in his pockets.
 
 Material: Basswood with acrylic paint and satin varnish.
 

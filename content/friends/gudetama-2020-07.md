@@ -3,7 +3,7 @@ date = "2020-07-07"
 title = "Gudetama"
 draft = false
 image = "img/gudetama/1-square.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["food", "kawaii", "gudetama"]
 categories = ["kawaii"]
 +++

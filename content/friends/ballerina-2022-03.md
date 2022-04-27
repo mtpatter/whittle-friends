@@ -3,7 +3,7 @@ date = "2022-03-04"
 title = "'Chonky Ballerina'"
 draft = false
 image = "img/chonky-ballerina/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["automata", "chonkins"]
 categories = ["automata", "chonkins"]
 +++

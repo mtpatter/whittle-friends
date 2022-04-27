@@ -3,7 +3,7 @@ date = "2020-05-22"
 title = "Simple Blue Birb"
 draft = false
 image = "img/simple-birb-2/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["animals", "birbs"]
 categories = ["animals"]
 +++

@@ -3,7 +3,7 @@ date = "2020-04-23"
 title = "'Three Watchers'"
 draft = false
 image = "img/three-watchers-owls/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["automata"]
 categories = ["automata"]
 +++

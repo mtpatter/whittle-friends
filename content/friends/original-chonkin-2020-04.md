@@ -3,7 +3,7 @@ date = "2020-04-26"
 title = "Original Chonkin"
 draft = false
 image = "img/original-chonkin/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["chonkins"]
 categories = ["chonkins"]
 +++

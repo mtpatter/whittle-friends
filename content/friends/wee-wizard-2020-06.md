@@ -3,7 +3,7 @@ date = "2020-06-13"
 title = "Wee Wizard"
 draft = false
 image = "img/wee-wizard/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["wizards", "five minutes"]
 categories = ["wizards"]
 +++

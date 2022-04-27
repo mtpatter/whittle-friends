@@ -3,7 +3,7 @@ date = "2020-05-04"
 title = "'The Child'"
 draft = false
 image = "img/baby-yoda/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["automata", "star wars"]
 categories = ["automata", "star wars"]
 +++

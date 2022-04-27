@@ -3,7 +3,7 @@ date = "2022-04-20"
 title = "Pocket penguin"
 draft = false
 image = "img/pocket-penguin/1.jpg"
-showonlyimage = false
+showonlyimage = true
 tags = ["animals", "christmas", "doug linker"]
 categories = ["animals", "christmas", "doug linker"]
 +++
