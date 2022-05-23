@@ -3,15 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/christmas/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/christmas/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/doug-linker/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/doug-linker/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/doug-linker-santa-face-2022-05/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/people/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/santa/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/santa/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/food/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/food/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/friends/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/kawaii/</loc>
@@ -21,12 +51,6 @@
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/friends/strawberry-2022-05/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/animals/</loc>
@@ -41,20 +65,8 @@
     <loc>/categories/bears/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/doug-linker/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/doug-linker/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/friends/doug-linker-small-bear-2022-04/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/christmas/</loc>
-    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/christmas/</loc>
-    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/friends/pocket-penguin-2022-04/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
@@ -176,16 +188,7 @@
     <loc>/friends/lil-old-man-2020-04/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/people/</loc>
-    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/friends/first-santa-2019-10/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/santa/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/santa/</loc>
     <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url>
 </urlset>
