@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/food/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/food/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kawaii/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/kawaii/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/strawberry-2022-05/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/animals/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,7 +38,7 @@
     <loc>/tags/bears/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/categories/bears/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/doug-linker/</loc>
@@ -20,16 +47,7 @@
     <loc>/categories/doug-linker/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/friends/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/friends/doug-linker-small-bear-2022-04/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/christmas/</loc>
@@ -80,19 +98,10 @@
     <loc>/categories/chonkins/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/food/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/friends/gudetama-2020-07/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/gudetama/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/kawaii/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/kawaii/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/friends/nosey-gnome-2020-06/</loc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bears on Whittle Friends</title>
+    <link>/categories/bears/</link>
+    <description>Recent content in bears on Whittle Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/bears/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini Doug Linker bear</title>
+      <link>/friends/doug-linker-small-bear-2022-04/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/friends/doug-linker-small-bear-2022-04/</guid>
+      <description>&lt;p&gt;A smaller version of a Doug Linker bear.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

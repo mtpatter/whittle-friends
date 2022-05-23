@@ -5,7 +5,7 @@ draft = false
 image = "img/gudetama/1-square.jpg"
 showonlyimage = true
 tags = ["food", "kawaii", "gudetama"]
-categories = ["kawaii"]
+categories = ["kawaii", "food"]
 +++
 
 Gudetama, the lazy egg.

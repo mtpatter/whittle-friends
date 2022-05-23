@@ -5,7 +5,7 @@ draft = false
 image = "img/doug-linker-small-bear/1.jpg"
 showonlyimage = true
 tags = ["animals", "bears", "doug linker"]
-categories = ["animals", "doug linker"]
+categories = ["animals", "bears", "doug linker"]
 +++
 
 A smaller version of a Doug Linker bear.

@@ -5,7 +5,7 @@ draft = false
 image = "img/kawaii-cupcake/1.jpg"
 showonlyimage = true
 tags = ["food", "kawaii"]
-categories = ["kawaii"]
+categories = ["food", "kawaii"]
 +++
 
 Mini cupcake, kawaii style.
