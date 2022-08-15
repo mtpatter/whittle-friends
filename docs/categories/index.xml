@@ -6,7 +6,43 @@
     <description>Recent content in Categories on Whittle Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>halloween</title>
+      <link>/categories/halloween/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/halloween/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kawaii</title>
+      <link>/categories/kawaii/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/kawaii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>animals</title>
+      <link>/categories/animals/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doug linker</title>
+      <link>/categories/doug-linker/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/doug-linker/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>christmas</title>
       <link>/categories/christmas/</link>
@@ -26,38 +62,11 @@
     </item>
     
     <item>
-      <title>doug linker</title>
-      <link>/categories/doug-linker/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/doug-linker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>food</title>
       <link>/categories/food/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kawaii</title>
-      <link>/categories/kawaii/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/kawaii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>animals</title>
-      <link>/categories/animals/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/animals/</guid>
       <description></description>
     </item>
     
