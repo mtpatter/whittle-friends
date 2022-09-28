@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/automata/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/automata/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/pumpkin-faces-2022-09/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/friends/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/friends/ghost-cutie-2022-08/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/halloween/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/halloween/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/ghost-cutie-2022-08/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/kawaii/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/kawaii/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/animals/</loc>
@@ -117,12 +126,6 @@
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/friends/ballerina-2022-03/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/automata/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/automata/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/chonkins/</loc>
