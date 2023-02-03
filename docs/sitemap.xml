@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/animals/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/animals/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/baby-shark-2022-09/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/friends/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/automata/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/automata/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/friends/pumpkin-faces-2022-09/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/friends/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/halloween/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/halloween/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/friends/ghost-cutie-2022-08/</loc>
@@ -37,12 +46,6 @@
   </url><url>
     <loc>/categories/kawaii/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/animals/</loc>
-    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/animals/</loc>
-    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/doug-linker/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
